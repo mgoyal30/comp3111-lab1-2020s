@@ -1,2 +1,4 @@
-Manan Goyal
-20541012
+Name : Manan Goyal
+SID : 20541012
+
+![](screenshot.png)
